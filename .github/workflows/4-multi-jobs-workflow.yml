@@ -17,6 +17,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Second Workflow Job
+      - name: Second Workflow New Job 
         run: |
           echo "Hello, Second Workflow!"
